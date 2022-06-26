@@ -7,7 +7,7 @@ Date: 6/21/2022
 /*body style*/
 body {
     font-family: Verdana, sans-serif;
-    background-color: #fffbbd;
+    background-color: #e7fbfb;
 }
 /*header style*/
 img {
@@ -18,8 +18,8 @@ img {
 h1 {
     text-align: center;
     font-weight: bold;
-    font-size: 2rem;
-    color:#a26009 ;
+    font-size: 4em;
+    color:#010B5B ;
 }
 /* navigation style */
 nav {
